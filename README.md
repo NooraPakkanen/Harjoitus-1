@@ -1,0 +1,3 @@
+# Linuxin asentaminen
+virtual
+    bnbjhbjhjh
